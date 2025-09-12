@@ -1,0 +1,21 @@
+{
+  "name": "multi-power-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start:broker": "node services/orders/orders.service.js",
+    "start:notification": "node services/notifications/notifications.service.js",
+    "start": "node index.js",
+    "test": "mocha tests --recursive --exit"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7",
+    "supertest": "^6.3.3"
+  }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "a3cebe50-87d2-4d4c-8d3a-1d57b7f0aa9f",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:01:29.318Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "d7828f00-7425-43e0-b9e0-43ebc919d32b",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:01:30.101Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "3ad33957-17fd-448d-845e-c900e7226fa3",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:04:31.212Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "c45dfcaf-e9f5-4876-8c31-44b5fbc4cd51",
+    "itemId": [
+      "itemA",
+      "itemB",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:04:40.820Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "8aef6d82-265a-411a-8c47-2be9760f5e1b",
+    "itemId": [
+      "itemA",
+      "itemB",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:04:43.756Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "d5ee077f-5d9b-446d-b63c-dc5320424020",
+    "itemId": [
+      "itemA",
+      "itemC",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:04:55.273Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "00b1f120-f171-49ea-84b9-376f26f9099a",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:00.513Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "bd7074eb-d262-40dd-89ce-1445d77e1cc1",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:05.836Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "34fcb6ad-4387-4940-8a70-4b496afcc851",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:06.542Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "94f86518-c5c0-4827-a22e-15e6bff8df61",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:07.103Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "3103386b-0170-422c-8e1f-f2f7960def48",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:07.487Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "2b0451cc-7ef1-465f-b628-2b2407e5ba36",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:08.018Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "c9d6c4cf-d5a1-4062-9525-8fc71e72459d",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:09:08.645Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "b2ed1917-f33e-4c6e-8960-bb4d30baa80c",
+    "itemId": [
+      "itemx",
+      "itemm"
+    ],
+    "createdAt": "2025-09-12T17:13:09.420Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "9ca81fff-0815-49a0-b88d-ca687ad2a946",
+    "itemId": [
+      "a"
+    ],
+    "createdAt": "2025-09-12T17:46:15.540Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "test-dup-id-123",
+    "itemId": [
+      "x"
+    ],
+    "createdAt": "2025-09-12T17:46:15.558Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "815a3fd4-734f-4250-948a-24336f5607ce",
+    "itemId": [
+      "itemA",
+      "itemB"
+    ],
+    "createdAt": "2025-09-12T17:46:27.576Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "a1452284-d7c3-4a6f-a798-f002db22b888",
+    "itemId": [
+      "a"
+    ],
+    "createdAt": "2025-09-12T17:46:28.145Z"
+  },
+  {
+    "type": "order.created",
+    "version": 1,
+    "orderId": "test-dup-id-123",
+    "itemId": [
+      "x"
+    ],
+    "createdAt": "2025-09-12T17:46:28.175Z"
+  }
+]
